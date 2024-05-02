@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "freedb_Alex8",
+    "password": "AGsr%7Y6U7aN7v@",
+    "database": "freedb_shop_vstu",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "test": {
+    "username": "freedb_Alex8",
+    "password": "AGsr%7Y6U7aN7v@",
+    "database": "freedb_shop_vstu",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "production": {
+    "username": "freedb_Alex8",
+    "password": "AGsr%7Y6U7aN7v@",
+    "database": "freedb_shop_vstu",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
